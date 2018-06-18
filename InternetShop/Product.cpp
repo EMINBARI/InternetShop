@@ -23,7 +23,7 @@ Product::Product(int id, int cost, std::string name) {
 
 	void Product::setArray(){
 
-		productsList.push_back(Product(123523, 500, "Computer HP"));
+		/*productsList.push_back(Product(123523, 500, "Computer HP"));
 		productsList.push_back(Product(879554, 100, "Computer Asus"));
 		productsList.push_back(Product(562656, 800, "Computer Apple"));
 		productsList.push_back(Product(232085, 550, "CPU Intel i7"));
@@ -35,7 +35,7 @@ Product::Product(int id, int cost, std::string name) {
 		productsList.push_back(Product(456231, 650, "Samsung S9"));
 		productsList.push_back(Product(120523, 800, "Iphone 8"));
 		productsList.push_back(Product(753698, 380, "Ipod Touch 6"));
-		productsList.push_back(Product(120365, 1500, "HP Spectre"));
+		productsList.push_back(Product(120365, 1500, "HP Spectre"));*/
 }
 
 	string Product::getProductName()
@@ -46,11 +46,12 @@ Product::Product(int id, int cost, std::string name) {
 	void Product::buyProduct()
 	{
 
-		cout << "Do u wanna buy this staf?\n Enter yes or no" << endl;
+		/*cout << "Do u wanna buy this staf?\n Enter yes or no" << endl;
 		cin >> condition;
 		if (condition == "yes") {
 			Order order1;
-		}
+		}*/
+		/*.jkgfgcfvhvckhgjhckuhjkfglcykugkfkudyfg*/
 
 
 	}
